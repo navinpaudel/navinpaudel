@@ -1,16 +1,13 @@
 ## Hi there 👋
+Hi I am @navinpaudel (Navin Paudel) 👋.
+👍 I am Software Engineer from Nepal 🇳🇵
+➡️ Currently learning - Microservices architecture
+🌱 Backend Frameworks - Java Spring Boot, Django, FastAPI, Node js, Express, Loopback, Odoo
+👯 Databases - MongoDB, PostgreSQL, sqlite3
+▶️ Frontend Technologies - Vanilla js, Jquery, Bootstrap, Basic Angular, React, Next
+👍 Additional Skills - Web Scrapping, Selenium
+📫 How to reach me:
+🔗Linkedin
+🔗Gmail
+🔗Github
 
-<!--
-**Navinim/Navinim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
